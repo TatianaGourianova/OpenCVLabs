@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Фото</string>
+    <string name="error">Ошибка</string>
+    <string name="something_went_wrong">Что-то пошло не так</string>
+    <string name="gallery">Галерея</string>
+    <string name="camera">Камера</string>
+    <string name="blur">Фильтры</string>
+    <string name="gaussianBlur">Gaussian Blur</string>
+    <string name="boxFilter">Box filter</string>
+    <string name="blurFilter">Blur</string>
+    <string name="medianBlurFilter">Median Blur</string>
+    <string name="linearFilter">Линейный фильтр</string>
+    <string name="noFilter">Фильтр не выбран</string>
+    <string name="dilatation">Дилатация</string>
+    <string name="erosion">Эрозия</string>
+    <string name="canny">Canny</string>
+    <string name="sobel">Оператор Собеля</string>
+    <string name="laplas">Оператор Лапласа</string>
+    <string name="edges">Границы</string>
+    <string name="edges2">Границы №2</string>
+    <string name="edges3">Границы №3</string>
+    <string name="detect">Распознавание</string>
+    <string name="mode1">Лица и морды</string>
+    <string name="mode2">Люди</string>
+    <string name="motion">История движения</string>
+</resources>
